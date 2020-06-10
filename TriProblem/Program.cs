@@ -6,6 +6,10 @@ namespace TriProblem
     {
         static void Main(string[] args)
         {
+            //      Tri problem
+            //   https://open.kattis.com/problems/tri
+            
+            // given three positive integers... guess the operation given the same order
 
 
             //var Tri = StringLineToIntArray(Console.ReadLine());
